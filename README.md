@@ -1,6 +1,6 @@
 # Hey, I'm Omer 👋
 
-**AI Researcher @ Siemens** · Building intelligent systems for aerospace and beyond.
+**AI Researcher @ Siemens** · Building intelligent systems for aerospace.
 
 ---
 
@@ -22,15 +22,14 @@ I design and deploy AI systems that operate under real-world constraints — lim
 Languages     Python · C · C++
 ML/DL         PyTorch · TensorFlow · Stable-Baselines3 · RLlib
 Simulation    ROS · Gazebo · STK · Custom orbital propagators
-Embedded      ARM Cortex · NVIDIA Jetson · FPGA prototyping
-Tools         Linux · Git · Docker · MATLAB/Simulink
+Embedded      ARM Cortex · NVIDIA Jetson
+Tools         MATLAB/Simulink
 ```
 
 ### Currently
 
-- 🔬 AI Researcher at **Siemens** — Horizon Europe RAI6GREEN project with **KTH Royal Institute of Technology**
-- 🎓 Final-year Computer Engineering @ **Istanbul University-Cerrahpasa**
-- 🚀 AIAA member, presenting at **AIAA ASCEND 2026** in Washington DC
+- 🔬 AI Researcher at **Siemens**
+- 🚀 Edge AI Researcher (Aerospace & Satellite Communications) at **AIAA**
 
 ### Connect
 

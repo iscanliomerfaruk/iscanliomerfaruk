@@ -1,8 +1,5 @@
 # Hey, I'm Omer 👋
 
-**AI Researcher @ Siemens** · Building intelligent systems for aerospace.
-
----
 
 I design and deploy AI systems that operate under real-world constraints — limited compute, intermittent connectivity, contested environments. My work spans from training multi-agent RL policies to deploying models on edge hardware.
 
